@@ -6,7 +6,7 @@ About
 =====
 Project Data anlysis  - Reddit/r/datascience 
  
-:Info: reddit data analysis on 'datascience' topic.And Reddit is a community platform that a millions of users posts,comment and share media contents across the word.The project is a sentiment analysis on posts and comments of users that is taken for a year span
+reddit data analysis on 'datascience' topic.And Reddit is a community platform that a millions of users posts,comment and share media contents across the word.The project is a sentiment analysis on posts and comments of users that is taken for a year span
 :Author: Dawit Fana ( Gedibe previously)
 
 Issues / Questions / Feedback
