@@ -1,21 +1,18 @@
 
-MSDS696_C70 Data Science Practicum II
+MSDS696_C70 Data Science Practicum II
 =======
-
-Data anlysis - Reddit/r/datascience 
-=======
-:Info: reddit data analysis on 'datascience' topic.And Reddit is a community platform that a millions of users posts,comment and share media contents across the word.The project is a sentiment analysis on posts and comments of users that is taken for a year span
-:Author: Dawit Fana ( Gedibe previously)
 
 About
 =====
-
-The PyMongo d .
+Project Data anlysis  - Reddit/r/datascience 
+ 
+:Info: reddit data analysis on 'datascience' topic.And Reddit is a community platform that a millions of users posts,comment and share media contents across the word.The project is a sentiment analysis on posts and comments of users that is taken for a year span
+:Author: Dawit Fana ( Gedibe previously)
 
 Issues / Questions / Feedback
 =============================
 
-Any issues 
+- nothing yet.
 
 Installation
 ============
@@ -62,10 +59,13 @@ Once mongodb is installed and data base will be created and populated on fly fro
 Alternatively , you can create a database and collection from a  sample data. This will save you a loading time of a year old comments and texts from Reddit.
 Here is the steps to do the alternative data load.
 
--- start mongodb deamon 
+##### start mongodb deamon 
 mongod
--- on another tab , start mongo
+
+##### on another tab , start mongo
 mongo
--- create a database and a collection to insert sample_data.json
+
+##### create a database and a collection to insert sample_data.json
 use Practicum_II
+
 db.insertMany(sample_data.json)
